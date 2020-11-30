@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="algorithm021" target="1.5" />
+      <module name="algorithm021" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.geektime.week01.practical.no11;
+package com.geektime.week01.practical.no11_1;
 
 /**
  * ClassName:Solution

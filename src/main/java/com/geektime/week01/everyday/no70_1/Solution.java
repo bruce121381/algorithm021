@@ -1,4 +1,4 @@
-package com.geektime.week01.everyday.no70;
+package com.geektime.week01.everyday.no70_1;
 
 /**
  * ClassName:Solution
