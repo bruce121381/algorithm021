@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7cbdb39-ef4f-48c8-bce2-096a34220823" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektime/week01/homework/no21_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geektime/week01/homework/no88_1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +102,7 @@
       <updated>1606704987185</updated>
       <workItem from="1606704988422" duration="417000" />
       <workItem from="1606705744045" duration="10308000" />
-      <workItem from="1606722453779" duration="945000" />
+      <workItem from="1606722453779" duration="3085000" />
     </task>
     <servers />
   </component>
@@ -116,6 +114,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1500.960@0.0.1920.1040" timestamp="1606723166295" />
+    <state x="676" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606723603121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1500.960@0.0.1920.1040" timestamp="1606723603121" />
+    <state x="546" y="85" key="CommitChangelistDialog2" timestamp="1606723643376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="85" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1500.960@0.0.1920.1040" timestamp="1606723643376" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1606705790494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
